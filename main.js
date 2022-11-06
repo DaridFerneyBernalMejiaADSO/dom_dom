@@ -11,10 +11,10 @@ addEventListener("DOMContentLoaded", (e)=>{
             }
         }
         if(total !=0 && total == num){
-            mostrar.innerHTML=`es perfecto `
+            mostrar.innerHTML=`es perfecto`
         }
         else{
-            mostrar.innerHTML=`no es perfecto `
+            mostrar.innerHTML=`no es perfecto`
         }     
     })
 
